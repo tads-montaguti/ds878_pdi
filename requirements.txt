@@ -1,0 +1,6 @@
+matplotlib
+opencv-python
+numpy
+imutils
+Image
+scikit-image==0.24
